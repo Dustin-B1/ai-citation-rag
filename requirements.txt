@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pymupdf
+pytesseract
+pillow
+faiss-cpu
+rank-bm25
+numpy
+pandas
+scikit-learn
+tiktoken
+openai
+streamlit
+PyYAML
